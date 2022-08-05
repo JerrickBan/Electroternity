@@ -1,0 +1,16 @@
+.yes {
+    background-color: lightgreen;
+    padding: 20px;
+    font-size: 25px;
+    background-size: 100%;
+}
+
+img {
+    float: right;
+    border: none;
+}
+
+.words{
+    font-size: 20px;
+    padding-top: 20px;
+}

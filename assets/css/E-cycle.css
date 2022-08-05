@@ -1,0 +1,92 @@
+
+.electroternity {
+    color:#5FC610;
+    padding: 0;
+    
+}
+
+h1 {
+    color:#5FC610;
+
+}
+
+ul {
+    list-style-type: none;
+    display: block;
+    color: white;
+    text-decoration: none;
+    top: 0;
+}
+
+
+li a {
+    display: block;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    top: 0;
+}
+
+
+li a:hover {
+    background-color: #111;
+}
+
+.title {
+    background-image: 
+    url('https://abm-website-assets.s3.amazonaws.com/ecnmag.com/s3fs-public/styles/hero/public/featured_image/2017/03/computer%20chip%20background%20blue.jpg?itok=3IEBN-gI');
+    background-size: cover;
+    text-shadow: 0 5px #000000;
+    margin:0;
+    padding: 0;
+    position: fixed;
+    width:100%;
+}
+
+
+
+a {
+    float: right;
+    text-decoration: none;
+    color: black;
+    padding: 0;
+}
+
+a:hover {
+    color: #5FC610;
+}
+
+a:active {
+    color: black;
+}
+
+.login {
+    margin-top:-70px;
+    position:relative;
+    color: white;
+    padding:0;
+    margin-bottom:0;
+}
+
+.sec1 {
+    background-image: 
+    url(http://www.greenplanets.org/upload/slider_image/1410069622slider4.jpg);
+    margin: 0;
+    padding-top: 100px;
+    <h1>Nature is a beautiful place. We must not let it destroyed. 
+}
+
+.sec2 {
+    padding: 100px;
+}
+
+.advice1 {
+    color: white;
+    text-align: center;
+    padding-bottom: 100px;
+    margin: 0;
+}
+
+
+
+

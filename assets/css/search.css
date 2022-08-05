@@ -1,0 +1,84 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding:0;
+    overflow: hidden;
+    background-color: #5FC610;
+}
+
+h1 {
+    color:#5FC610;
+
+}
+
+div#navBar {
+    margin:0;
+    padding:0;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+li a:hover {
+    background-color: #111;
+}
+
+.title {
+    background-image: 
+    url('https://abm-website-assets.s3.amazonaws.com/ecnmag.com/s3fs-public/styles/hero/public/featured_image/2017/03/computer%20chip%20background%20blue.jpg?itok=3IEBN-gI');
+    background-size: cover;
+    text-shadow: 0 5px #000000;
+    margin:0;
+    padding: 0.025px 0;
+}
+
+a {
+    float: right;
+    text-decoration: none;
+    color: black;
+    padding: 0;
+}
+
+a:hover {
+    color: #5FC610;
+}
+
+a:active {
+    color: black;
+}
+
+.login {
+    margin-top:-70px;
+    position:relative;
+    color: white;
+    padding:0;
+    margin-bottom:0;
+}
+
+
+
+
+a#signUp {
+float: center;
+}
+
+input[type=text] {
+    width: 130px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+/* When the input field gets focus, change its width to 100% */
+input[type=text]:focus {
+    width: 50%;
+}

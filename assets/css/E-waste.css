@@ -1,0 +1,35 @@
+.container1 {
+    background-color: lightgreen;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-size: 100%;
+}
+
+p {
+    margin: 40px;
+}
+
+.con2 {
+    background-color: lightgreen;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.words {
+    padding: 10px;
+    font-size: 25px;
+}
+
+.con3 {
+    background-color: lightgreen;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.effectHumans {
+    font-size: 20px;
+}
